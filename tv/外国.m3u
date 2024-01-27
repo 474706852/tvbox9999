@@ -1,0 +1,59 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,[巴基斯坦]One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1,[巴基斯坦]One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[保加利亚]DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1,[俄罗斯联邦]Дом кино
+http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
+#EXTINF:-1,[俄罗斯联邦]Дом кино 16
+http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
+#EXTINF:-1,[俄罗斯联邦]Комедийное HD
+http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+#EXTINF:-1,[俄罗斯联邦]Новый
+http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
+#EXTINF:-1,[俄罗斯联邦]Страшное HD
+http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
+#EXTINF:-1,[俄罗斯联邦]СТС
+http://spacetv.in/stream/DVB2D6AE8CU/138.m3u8
+#EXTINF:-1,[俄罗斯联邦]Шокирующее HD
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+#EXTINF:-1,[韩国]KBC 광주방송(SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1,[韩国]KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1,[韩国]TJB 대전방송(SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,[韩国]국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,[罗马尼亚]Intermedia TV (576p)
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1,[罗马尼亚]Intermedia TV [Not 24/7]
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1,[美国]KBSV/AssyriaSat
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1,[美国]NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,[墨西哥]Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1,[日本]NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,[日本]日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1,[乌克兰]1+1
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1,[乌克兰]2+2
+http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
+#EXTINF:-1,[乌克兰]Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,[西班牙]TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1,[匈牙利]1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1,[意大利]Lucania Channel
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8
+#EXTINF:-1,[意大利]Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1,台湾番薯台[1920*1080]
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
